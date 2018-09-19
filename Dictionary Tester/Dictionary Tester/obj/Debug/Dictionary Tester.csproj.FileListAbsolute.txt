@@ -1,0 +1,9 @@
+C:\Projects\Dictionary Tester\Dictionary Tester\bin\Debug\Dictionary Tester.exe.config
+C:\Projects\Dictionary Tester\Dictionary Tester\bin\Debug\Dictionary Tester.exe
+C:\Projects\Dictionary Tester\Dictionary Tester\bin\Debug\Dictionary Tester.pdb
+C:\Projects\Dictionary Tester\Dictionary Tester\obj\Debug\Dictionary Tester.csprojResolveAssemblyReference.cache
+C:\Projects\Dictionary Tester\Dictionary Tester\obj\Debug\Dictionary_Tester.frmMain.resources
+C:\Projects\Dictionary Tester\Dictionary Tester\obj\Debug\Dictionary_Tester.Properties.Resources.resources
+C:\Projects\Dictionary Tester\Dictionary Tester\obj\Debug\Dictionary Tester.csproj.GenerateResource.Cache
+C:\Projects\Dictionary Tester\Dictionary Tester\obj\Debug\Dictionary Tester.exe
+C:\Projects\Dictionary Tester\Dictionary Tester\obj\Debug\Dictionary Tester.pdb
